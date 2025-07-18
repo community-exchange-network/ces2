@@ -20,10 +20,10 @@ After MVP v0, development will iterate to add features until the full MVP is rea
   * JWT access tokens.
   * JWKS endpoint.
 * Forgot password and change email features.
-* Create a data abstraction layer for user credentials.
-* Implement the data layer with Prisma ORM and PostgreSQL.
-* Use a toy CES DB with test/anonymized data.
-* Implement the data layer for the CES DB (different password verification).
+* Have a test CES DB with synthetic or anonymized data.
+* Create a database abstraction layer.
+* Implement the data layer with Prisma ORM and a PostgreSQL container.
+* Develop a second data layer version using the test CES DB.
 * Write tests for both data layers.
 * Set up a CI/CD pipeline for testing and deploying a staging version.
 * Provide OpenAPI documentation.
@@ -37,7 +37,7 @@ After MVP v0, development will iterate to add features until the full MVP is rea
 * Implement the [Social API](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/komunitin/komunitin-api/refs/heads/master/social/openapi.yaml) endpoints.
 * Create a database abstraction layer.
 * Implement the data layer with Prisma ORM and a PostgreSQL container.
-* Develop a second data layer version using the toy CES DB.
+* Develop a second data layer version using the test CES DB.
 * Write tests for both data layers.
 * Provide OpenAPI documentation.
 
