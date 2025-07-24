@@ -39,7 +39,7 @@ CES 2.0 is currently in the feature definition and planning phase. We're working
 
 We aim to release a beta version in Q3 2025, with additional features rolling out through 2025-2026.
 
-Check our Road Map: https://github.com/community-exchange-network/ces2/blob/roadmap/ROADMAP.md
+Check our Road Map: https://github.com/community-exchange-network/ces2/blob/main/ROADMAP.md
 
 ## How to Contribute
 
