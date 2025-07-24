@@ -1,10 +1,10 @@
-# Roadmap for CES2 Platform
+# Road map for CES2 Platform
 
 The CES2 (Community Exchange System 2) platform aspires to become the leading open-source platform for community exchange systems. The team has documented the requirements in this repository's [issue tracker](https://github.com/community-exchange-network/ces2/issues). High-priority issues are part of the MVP (Minimum Viable Product). The MVP is a significant project, with the first stage being MVP v0.
 
 ## MVP v0
 
-This roadmap outlines the steps for version zero of the Minimum Viable Product for the CES2 platform. The goal is to connect the [Komunitin](https://docs.komunitin.org/) app to the existing CES database, enabling CES users to access their accounts via the existing CES (desktop and mobile) frontends, or the new app.
+This road map outlines the steps for version zero of the Minimum Viable Product for the CES2 platform. The goal is to connect the [Komunitin](https://docs.komunitin.org/) app to the existing CES database, enabling CES users to access their accounts via the existing CES (desktop and mobile) frontends, or the new app.
 
 The focus is on minimal development to support local transactions and browsing local offers and wants using the CES database. Critical features like inter-exchange interactions, admin tools, advanced transaction features, and search/filtering are excluded at this stage.
 
