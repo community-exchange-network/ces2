@@ -39,6 +39,8 @@ CES 2.0 is currently in the feature definition and planning phase. We're working
 
 We aim to release a beta version in Q3 2025, with additional features rolling out through 2025-2026.
 
+Check our Road Map: https://github.com/community-exchange-network/ces2/blob/roadmap/ROADMAP.md
+
 ## How to Contribute
 
 We're actively seeking developers to join our project, especially those with TypeScript experience. If you're interested in alternative economics, community exchange, or building systems that support a more equitable society, we'd love your help!
