@@ -29,7 +29,7 @@ CES 2.0 builds on Komunitin, an open-source community exchange platform that evo
 
 - Frontend: TypeScript, Vue.js
 - Backend: TypeScript, Go for notification services
-- Database: PostgreSQL
+- Database: PostgreSQL, MySQL
 - Infrastructure: Redis, Docker
 - Mobile: Native app with NFC and QR code support
 
