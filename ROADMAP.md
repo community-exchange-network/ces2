@@ -1,8 +1,17 @@
 # Road map for CES2 Platform
 
-The CES2 (Community Exchange System 2) platform aspires to become the leading open-source platform for community exchange systems. The team has documented the requirements in this repository's [issue tracker](https://github.com/community-exchange-network/ces2/issues). High-priority issues are part of the MVP (Minimum Viable Product). The MVP is a significant project, with the first stage being MVP v0.
+This is the roadmap for the CES2 platform, which aims to be the leading open-source platform for community exchange systems. The team has documented the requirements in this repository's [issue tracker](https://github.com/community-exchange-network/ces2/issues). The roadmap has been structured in several stages. Each stage is a milestone defined in the [milestone tracker](https://github.com/community-exchange-network/ces2/milestones).
 
-## MVP v0
+ - [**v0-mvp: Integration**](https://github.com/community-exchange-network/ces2/milestone/1): The first stage focuses on integrating the Komunitin to the existing CES database. At the end of this stage we should have a test instance of the Komunitin app connected to a database with the schema of the CES database.
+ - [**v1-mvp: UX and UI**](https://github.com/community-exchange-network/ces2/milestone/2): The second stage defines the basis for the app design and user experience including app layout and navigation, styling (colors, fonts, etc), help, terminology, internationalization. Placing the UX stage at the beginning of the roadmap allows for a more user-centered design process.
+ - [**v2-mvp: User features**](https://github.com/community-exchange-network/ces2/milestone/3): The goal of this stage is to have all essential user features, including sign up, profile management, offers and wants management, account management, basic search.
+ - [**v3-mvp: Admin features**](https://github.com/community-exchange-network/ces2/milestone/4): This stage focuses on the essential admin features such as user management and exchange settings. At the end of this stage we will have the CES2 MVP, with all essential features for users and administrators but still missing some important features.
+ - [**v4: Federation**](https://github.com/community-exchange-network/ces2/milestone/5): This stage develops the features required for a user to interact with other exchanges, meaning being able to browse offers and wants from other exchanges, and to make transactions with them. Additionally, this stage should include the APIs for third-party apps to interact with the CES2 platform.
+ - [**v5: More features**](https://github.com/community-exchange-network/ces2/milestone/6): This stage includes all user features that were not included in the MVP, such as fees, demurrage, additional communication features, announcements, mailing.
+ - [**v6: Migration**](https://github.com/community-exchange-network/ces2/milestone/7): This stage focuses on migrating existing CES users to the new platform. At the end of this stage we should be able to discontinue the old CES platform without losing any significant features or data.
+ - [**v7: Search**](https://github.com/community-exchange-network/ces2/milestone/8): This stage focuses on implementing a search engine for the CES2 platform allowing both semantic full-text search and geographic search. This stage also includes recommendation features.
+
+## v0-mvp: Integration
 
 This road map outlines the steps for version zero of the Minimum Viable Product for the CES2 platform. The goal is to connect the [Komunitin](https://docs.komunitin.org/) app to the existing CES database, enabling CES users to access their accounts via the existing CES (desktop and mobile) frontends, or the new app.
 
