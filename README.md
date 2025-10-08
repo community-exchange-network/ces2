@@ -89,4 +89,4 @@ For more information about the Community Exchange System:
 - Tim Jenkin, founder of the original CES
 - All the volunteers who have maintained and improved CES over the years
 - The Komunitin team for their open-source contribution
-- All our partnering organisations: MetaProvide, Open Coop, Credit Commons, Murmurations, and others
+- All our partnering organisations: TimeOverfow, MetaProvide, Open Coop, Credit Commons, Murmurations, and others
