@@ -27,17 +27,16 @@ CES 2.0 builds on Komunitin, an open-source community exchange platform that evo
 
 #### Key Technologies
 
-- Frontend: TypeScript, Vue.js
-- Backend: TypeScript, Go for notification services
-- Database: PostgreSQL, MySQL
-- Infrastructure: Redis, Docker
-- Mobile: Native app with NFC and QR code support
+- Frontend: TypeScript, Vue.js, Quasar, PWA
+- Backends: TypeScript, NodeJS, ExpressJS, JWT
+- Database: PrismaORM, PostgreSQL, MySQL, BullMQ, Redis
+- Infrastructure: Docker Compose, S3, SMTP
 
 ## Project Status
 
-CES 2.0 is currently in the feature definition and planning phase. We're working to create a Minimum Viable Product (MVP) that captures the essential functionality of community exchange while implementing a modern, user-friendly interface.
+We're working to create a Minimum Viable Product (MVP) that captures the essential functionality of community exchange while implementing a modern, user-friendly interface.
 
-We aim to release a beta version in Q3 2025, with additional features rolling out through 2025-2026.
+We aim to release a beta version in Q2 2026.
 
 Check our Road Map: https://github.com/community-exchange-network/ces2/blob/main/ROADMAP.md
 
