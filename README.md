@@ -1,3 +1,6 @@
+# ⚠️ Repository archived
+This repository has been archived in favour of the [Komunitin](https://github.com/community-exchange-network/komunitin) repository. All issues and discussion have been moved there.
+
 # Community Exchange System (CES 2)
 
 ## About the Community Exchange System
